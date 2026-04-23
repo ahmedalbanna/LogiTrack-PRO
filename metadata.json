@@ -1,0 +1,11 @@
+{
+  "name": "LogiTrack PRO",
+  "description": "نظام احترافي متكامل لإدارة المستودعات والعمليات اللوجستية وتتبع الشحنات والفوترة",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Warehouse Management",
+    "Inventory Control",
+    "Shipment Tracking",
+    "Invoicing"
+  ]
+}
